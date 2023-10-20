@@ -1,22 +1,22 @@
 ---
 
-# 3rd-Party Software for [https://github.com/georgzoeller/omni-extension-babylonjs.git]()
+# 3rd-Party Software for [https://github.com/omnitool-community/omni-extension-babylonjs.git]()
 
 
 
-The following 3rd-party software packages may be used by or distributed with **https://github.com/georgzoeller/omni-extension-babylonjs.git**.  Any information relevant to third-party vendors listed below are collected using common, reasonable means.
+The following 3rd-party software packages may be used by or distributed with **https://github.com/omnitool-community/omni-extension-babylonjs.git**.  Any information relevant to third-party vendors listed below are collected using common, reasonable means.
 
 
 Date generated | Revision ID
 :------------: | :----------:
-10/20/23 | 09540acc461f7c4d39bddd5fab4683985d091fb3
+10/20/23 | e430381c0259ce5114af524b764f25d6db064876
 
 ---
 
 
 ## Declared License
 
-No declared license found for https://github.com/georgzoeller/omni-extension-babylonjs.git
+No declared license found for https://github.com/omnitool-community/omni-extension-babylonjs.git
 
 
 

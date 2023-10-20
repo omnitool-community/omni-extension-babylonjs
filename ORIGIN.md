@@ -1,1 +1,1 @@
-https://github.com/georgzoeller/omni-extension-babylonjs.git
+https://github.com/omnitool-community/omni-extension-babylonjs.git
